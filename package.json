@@ -1,0 +1,25 @@
+{
+  "name": "test-npm-mod",
+  "version": "1.0.0",
+  "description": "This is a Test Mod for artifactory and github integration",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "send": "^0.16.2"
+  },
+  "devDependencies": {
+    "debug": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayadeepGit/test-npm-mod.git"
+  },
+  "author": "jayadeep sriram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayadeepGit/test-npm-mod/issues"
+  },
+  "homepage": "https://github.com/jayadeepGit/test-npm-mod#readme"
+}
