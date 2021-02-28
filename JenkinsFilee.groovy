@@ -67,7 +67,7 @@ spec:
                     -H "Accept: application/vnd.github.v3+json" \
                     -H "authorization: ${GITHUB_ACCESS_TOKEN}" \
                     https://api.github.com/repos/jayadeepGit/test-npm-mod/check-runs \
-                    -d '{"name":"First CheckRun","head_sha":"6a6292523a62ac14b57815b744941bcdc1bc9ffc"}'
+                    -d '{"name":"First CheckRun","head_sha":"6e5c8788a9e799fb470d6f1f8ae3672504955dc7"}'
                 """
                 
                 
