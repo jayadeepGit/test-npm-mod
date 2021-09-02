@@ -1,2 +1,2 @@
 # test-npm-modd
-Test npm module
+Test npm modul
