@@ -1,2 +1,2 @@
-# test-npm-mods
+# test-npm-mod
 Test npm modul
