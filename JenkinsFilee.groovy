@@ -1,5 +1,5 @@
 node{
 	stage("test"){
-		sh "echo testing"
+		sh "echo testiing"
 	}
 }
